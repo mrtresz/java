@@ -1,4 +1,5 @@
-import java.util.HashMap;
+package employeeManagement;
+
 import java.util.HashSet;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package employeeManagement;
+
 import java.io.Serializable;
 
 public class Employee {
@@ -64,3 +66,4 @@ public class Employee {
     }
 
 }
+
