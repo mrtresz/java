@@ -13,7 +13,7 @@ public class chapter_01 {
 
         System.out.println(myName.charAt(3));
         System.out.println(myName.contains("Nhla"));
-        System.out.println(myName.startsWith("n"));
+        System.out.println(myName.startsWith("N"));
          int myNameLength = myName.length();
         System.out.println(myNameLength);
 
