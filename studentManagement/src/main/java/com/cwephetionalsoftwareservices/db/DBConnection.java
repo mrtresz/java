@@ -20,7 +20,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:postgresql://localhost:5432/StudentManagement";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "NT@Z#321*bst$%";
+    private static final String PASSWORD = "";
     private static Connection connection = null;
 
 //    Method to get the connection
