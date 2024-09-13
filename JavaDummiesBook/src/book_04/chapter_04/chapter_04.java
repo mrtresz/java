@@ -23,14 +23,14 @@ public class chapter_04 {
         linkedList.pop(); //removes the last/tail
         linkedList.poll(); //removes the first/head
 
-        linkedList.add(4,"E");
+        linkedList.add(2,"E");
         linkedList.remove("E");
 
         System.out.println(linkedList.peekFirst());
         System.out.println(linkedList.peekLast());
 
         linkedList.addFirst("0");
-        linkedList.addLast("G");;
+        linkedList.addLast("G");
 
 //        advantages and disadvantages;
         /*

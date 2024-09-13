@@ -1,5 +1,7 @@
 package book_04.chapter_05;
 
+import java.util.ArrayList;
+
 public class chapter_05 {
     public static void main(String[] args) {
 //        creating java collection generics
@@ -10,6 +12,7 @@ public class chapter_05 {
         The E parameter specifies the type of elements stored in the list
 
          */
+
 
 //         example generic stack class
         /*

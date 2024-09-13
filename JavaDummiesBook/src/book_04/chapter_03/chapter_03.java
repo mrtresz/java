@@ -8,6 +8,7 @@ public class chapter_03 {
 //        array list is a resizable array and it can only store reference data types
 
 //        if you want to store primitive types like int You need to use the wrapper class
+
         ArrayList<String> names = new ArrayList<String>();
 
 //        adding elements
